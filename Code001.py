@@ -4,7 +4,8 @@ Le code cree l'univers associe a une piece de monnaie en utilsant la structure d
 python: ensemble (set,{})   
 L fonction product de itertools retourne le produit cartesiens des ensembles donnes en arguments. 
 """
-from itertools import product		
+from itertools import product	
+from utils import get_Omega01	
 """
 Dans cette partie on utilise le package sympy.stats: 
 la classe Coin pour modeliser l'experience du lancer d'une piece de monnaie.
@@ -21,13 +22,15 @@ Omega6 = set(product(Omega1,repeat=3))    ;print("Oemag6= ",Omega6)
 
 print("\n En utilisant sympy.....................................\n") 	
 #R1
-coin = Coin('Coin')									
-coin_omega = set(density(coin).dict.keys())		    
+coin = Coin('Coin')	
+coin_omega=get_Omega01(coin)								
+#coin_omega = set(density(coin).dict.keys())		    
 print("- R1 Toss a coin omega : ",coin_omega)
 
 #R3
 die = Die('Die')
-die_omega = set(density(die).dict.keys()) 
+die_omega=get_Omega01(coin)								
+#die_omega = set(density(die).dict.keys()) 
 print("- R3 Roll dice omega : ",die_omega)
 
 #R6

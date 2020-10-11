@@ -1,5 +1,12 @@
 #Code: utils.py
+#---------------------------------------------------------------------------------
+get_Omega01= lambda re: set(density(re).dict.keys()) 
 
+
+
+
+
+#------------------------------------------------------------------------------
 import matplotlib.pyplot as plt
 from sympy.stats import FiniteRV, density, cdf
 from itertools import accumulate
