@@ -25,8 +25,8 @@ Finally, and to help the reader better understand the usefulness of theoretical 
 7. Simulation Tools in Python
 
 ### Annexes
-a- Counting
-b- Queuing network
-c- Statistical tables
+a. Counting
+b. Queuing network
+c. Statistical tables
 
 ### References
