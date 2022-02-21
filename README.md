@@ -1,6 +1,6 @@
 # Probability, Stochastic Processes & Simulation in Python
 ## Preface
-
+|:------------------------------------:|
 In the age of artificial intelligence, robotics, intelligent systems and machine learning, which are increasingly taking up space in practically all areas; and since the emergence of intelligent applications on which most of the major IT players rely; in this great technological whirlwind, we ask the computer scientist to know, create and innovate more and more. However, the development of the necessary skills to master these recent technologies cannot be achieved without having the essential bases in probability, which is one of their fundamental pillars. Mastering the foundations of this pillar has thus become essential.
 It is with this in mind that we are proposing this book on probabilities, stochastic processes and simulation, and the challenge of which is to simplify the basic concepts by the example and by the practice.
 This book is intended primarily for computer scientists, but can obviously be used by anyone wishing to learn elementary concepts in probability with their practical side in order to subsequently be able to tackle other more advanced subjects such as machine learning and  artificial intelligence.\\
