@@ -1,6 +1,6 @@
 # Probability, Stochastic Processes & Simulation in Python
 ## Preface
-|:------------------------------------:|
+
 In the age of artificial intelligence, robotics, intelligent systems and machine learning, which are increasingly taking up space in practically all areas; and since the emergence of intelligent applications on which most of the major IT players rely; in this great technological whirlwind, we ask the computer scientist to know, create and innovate more and more. However, the development of the necessary skills to master these recent technologies cannot be achieved without having the essential bases in probability, which is one of their fundamental pillars. Mastering the foundations of this pillar has thus become essential.
 It is with this in mind that we are proposing this book on probabilities, stochastic processes and simulation, and the challenge of which is to simplify the basic concepts by the example and by the practice.
 This book is intended primarily for computer scientists, but can obviously be used by anyone wishing to learn elementary concepts in probability with their practical side in order to subsequently be able to tackle other more advanced subjects such as machine learning and  artificial intelligence.\\
@@ -14,3 +14,19 @@ In the chapters of the second part we deal respectively with stochastic processe
 The last part is devoted to simulation. We first present the random numbers and  variables generators, then the different modules offered by Python for the simulation of more elaborated systems.
 Throughout the book, the reader can find a plethora of Python code. The written codes show how to implement the different concepts on machine using the available libraries  in Python, at the same time, they contribute to their improvement with new classes and functionalities.
 Finally, and to help the reader better understand the usefulness of theoretical concepts, we have added several applications with their implementations at the end of the chapters.
+
+### Chapters:
+1- Introduction to probabilty
+2- Random Variables
+3- Random Processes
+4- Markov Chain
+5- Queuing theory
+6- RV Generation and Simulation
+7- Simulation Tools in Python
+
+### Annexes
+a- Counting
+b- Queuing network
+c- Statistical tables
+
+### References
