@@ -16,13 +16,13 @@ Throughout the book, the reader can find a plethora of Python code. The written 
 Finally, and to help the reader better understand the usefulness of theoretical concepts, we have added several applications with their implementations at the end of the chapters.
 
 ### Chapters:
-1- Introduction to probabilty
-2- Random Variables
-3- Random Processes
-4- Markov Chain
-5- Queuing theory
-6- RV Generation and Simulation
-7- Simulation Tools in Python
+1. Introduction to probabilty
+2. Random Variables
+3. Random Processes
+4. Markov Chain
+5. Queuing theory
+6. RV Generation and Simulation
+7. Simulation Tools in Python
 
 ### Annexes
 a- Counting
