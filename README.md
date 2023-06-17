@@ -30,3 +30,4 @@ Finally, and to help the reader better understand the usefulness of theoretical 
 3. Statistical tables
 
 ### References
+see the book for the references
